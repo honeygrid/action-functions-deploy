@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "firebase-hosting-preview-action",
+  "name": "firebase-deploy-functions-action",
   "main": "bin/action.min.js",
   "source": "src/index.ts",
   "devDependencies": {
